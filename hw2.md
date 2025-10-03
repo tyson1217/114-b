@@ -1,3 +1,3 @@
-!PERT/CRM](圖片URL)
+!PERT/CRM](PERT-CPM.jpg)
 
-![甘特圖](圖片URL)
+![甘特圖](甘特圖.png)
